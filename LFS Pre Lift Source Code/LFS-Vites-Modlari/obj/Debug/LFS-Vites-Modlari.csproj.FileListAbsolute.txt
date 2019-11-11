@@ -1,0 +1,48 @@
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.csprojResolveAssemblyReference.cache
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.Form1.resources
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.hakkimizda.resources
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.istatistikler.resources
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.Properties.Resources.resources
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.testedilensurumler.resources
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.csproj.GenerateResource.Cache
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\LFS-Vites-Modlari.exe.config
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\LFS-Vites-Modlari.exe
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\LFS-Vites-Modlari.pdb
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\InSimDotNet.dll
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\InSimDotNet.pdb
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\InSimDotNet.xml
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.exe
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.pdb
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\CircularProgressBar.dll
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\CircularProgressBar.xml
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\WinFormAnimation.dll
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\WinFormAnimation.xml
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.hesaplama.resources
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.nasilyapilir.resources
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\SharpUpdate.dll
+C:\Users\Emir\Desktop\V2\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\SharpUpdate.pdb
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\LFS-Vites-Modlari.exe.config
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\LFS-Vites-Modlari.exe
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\LFS-Vites-Modlari.pdb
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\CircularProgressBar.dll
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\InSimDotNet.dll
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\SharpUpdate.dll
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\WinFormAnimation.dll
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\CircularProgressBar.xml
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\InSimDotNet.pdb
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\InSimDotNet.xml
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\SharpUpdate.pdb
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\bin\Debug\WinFormAnimation.xml
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.csprojAssemblyReference.cache
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.Form1.resources
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.hakkimizda.resources
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.hesaplama.resources
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.istatistikler.resources
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.nasilyapilir.resources
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.Properties.Resources.resources
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS_Vites_Modlari.testedilensurumler.resources
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.csproj.GenerateResource.cache
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.csproj.CoreCompileInputs.cache
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.csproj.CopyComplete
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.exe
+C:\Users\gs_em\Desktop\LFS Vites Programı\LFS Pre Lift Source Code\LFS-Vites-Modlari\obj\Debug\LFS-Vites-Modlari.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="LFS-Vites-Modlari"> 
+        <version>1.0.0.2</version> 
+        <url>http://lfsturkey.net/vk/LFS-Vites-Modlari.exe</url> 
+        <fileName>LFS-Vites-Modlari.exe</fileName> 
+        <md5>52521a8dedd635043f6514adb5012a63</md5>
+        <description>Güncelleme: 28/07/2017:
+1.Delay fixlendi.
+2.Anlık vites atma sorunu fixlendi.
+3.Gecikme fixlendi.
+4.Lag ve problem yataracak sorunlar fixlendi.
+Güncelleme: 29/07/2017:
+1.Vites atma sorunu en aza indirildi.
+
+</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
